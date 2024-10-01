@@ -1,0 +1,47 @@
+[
+    {
+        "date": "2024-01-01",
+        "event": "Victory Day Celebration",
+        "short_description": "Honoring the sacrifices made for Bangladesh's independence."
+    },
+    {
+        "date": "2024-02-21",
+        "event": "International Mother Language Day",
+        "short_description": "Commemorating the martyrs of the Language Movement in 1952."
+    },
+    {
+        "date": "2024-03-26",
+        "event": "Independence Day",
+        "short_description": "Marking Bangladesh's declaration of independence from Pakistan."
+    },
+    {
+        "date": "2024-04-14",
+        "event": "Pohela Boishakh",
+        "short_description": "Celebrating the Bengali New Year with cultural events and fairs."
+    },
+    {
+        "date": "2024-05-01",
+        "event": "Labour Day",
+        "short_description": "Acknowledging the contributions and rights of workers in Bangladesh."
+    },
+    {
+        "date": "2024-08-15",
+        "event": "National Mourning Day",
+        "short_description": "Remembering the assassination of Sheikh Mujibur Rahman in 1975."
+    },
+    {
+        "date": "2024-09-06",
+        "event": "Eid-ul-Adha",
+        "short_description": "A major Islamic festival of sacrifice observed by Bangladeshi Muslims."
+    },
+    {
+        "date": "2024-10-18",
+        "event": "Durga Puja",
+        "short_description": "A major religious festival celebrated by Hindus in Bangladesh."
+    },
+    {
+        "date": "2024-12-16",
+        "event": "Victory Day",
+        "short_description": "Celebrating the victory of Bangladesh over Pakistan in 1971."
+    }
+]

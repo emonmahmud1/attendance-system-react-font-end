@@ -1,0 +1,37 @@
+[
+    {
+        "date": "2024-10-01",
+        "day": "Monday",
+        "in_time": "09:00 AM",
+        "out_time": "05:00 PM",
+        "status": "Approved"
+    },
+    {
+        "date": "2024-10-02",
+        "day": "Tuesday",
+        "in_time": "09:30 AM",
+        "out_time": "05:30 PM",
+        "status": "Pending"
+    },
+    {
+        "date": "2024-10-03",
+        "day": "Wednesday",
+        "in_time": "10:00 AM",
+        "out_time": "06:00 PM",
+        "status": "Approved"
+    },
+    {
+        "date": "2024-10-04",
+        "day": "Thursday",
+        "in_time": "09:15 AM",
+        "out_time": "05:15 PM",
+        "status": "Pending"
+    },
+    {
+        "date": "2024-10-05",
+        "day": "Friday",
+        "in_time": "08:45 AM",
+        "out_time": "04:45 PM",
+        "status": "Approved"
+    }
+]
