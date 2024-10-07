@@ -22,10 +22,10 @@ const LoginPage = () => {
   
               <form className="mt-3">
                 <div className="mb-6">
-                <input type="email" placeholder="Enter your email" className="input input-bordered w-full max-w-xs" />                </div>
+                <input type="email" placeholder="Enter your email" className="input input-bordered w-full" />                </div>
   
                 <div>
-                <input type="password" placeholder="******" className="input input-bordered w-full max-w-xs" />                </div>
+                <input type="password" placeholder="******" className="input input-bordered w-full " />                </div>
   
   
                 <div className="flex justify-center mt-3 gap-2">
