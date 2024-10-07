@@ -68,6 +68,8 @@ const HomePage = () => {
             <AttendanceTable workData={workData}></AttendanceTable>
           </div>
         </div>
+
+        
         {/* right side */}
         <div className=" w-2/5 mx-auto mt-16 rounded-md">
           <div>
@@ -84,6 +86,9 @@ const HomePage = () => {
           </div>
         </div>
       </div>
+
+
+
       <dialog id="my_modal_4" className="modal">
         <div className="modal-box w-2/5 h-1/2">
           <div className="flex flex-col relative h-full">

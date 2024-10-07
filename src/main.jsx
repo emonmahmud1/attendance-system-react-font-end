@@ -5,6 +5,7 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import HomePage from "./Pages/HomePage/HomePage.jsx";
 import MainLayout from "./Pages/MainLayout/MainLayout.jsx";
 import LeaveApply from "./Pages/LeaveApply/LeaveApply.jsx";
+import LoginPage from "./Pages/LoginPage/LoginPage.jsx";
 const router = createBrowserRouter([
   {
     path: "/",
@@ -18,8 +19,15 @@ const router = createBrowserRouter([
         path: '/applyforleave',
         element: <LeaveApply></LeaveApply>
       },
+     
     ],
+
+    
   },
+  {
+    path: "/login",
+    element: <LoginPage></LoginPage>,
+  }
 ]);
 createRoot(document.getElementById("root")).render(
   <StrictMode>

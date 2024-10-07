@@ -1,5 +1,6 @@
 import { IoMdArrowRoundBack } from "react-icons/io";
 import { useNavigate } from "react-router-dom";
+
 const Title = ({title}) => {
   const navigate = useNavigate();
   return (
